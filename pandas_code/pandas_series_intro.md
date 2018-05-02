@@ -361,8 +361,7 @@ obj3 + obj4
 
 
     California         NaN
-    Ohio               NaN
-    Ohoi               NaN
+    Ohio           70000.0
     Oregon         32000.0
     Texas         142000.0
     Utah               NaN
@@ -378,7 +377,7 @@ obj3
 
 
 
-    Ohoi      35000
+    Ohio      35000
     Oregon    16000
     Texas     71000
     Utah       5000
